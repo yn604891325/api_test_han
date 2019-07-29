@@ -1,0 +1,55 @@
+[2019-07-28 22:41:44] DEBUG [db_query: db.py, 23] select DLDM,DLMM from sys_czry where DLDM='platAdmin'
+[2019-07-28 22:41:44] DEBUG [db_query: db.py, 24] [('platAdmin', 'admin123'), ('platAdmin', 'admin123')]
+[2019-07-28 23:27:57] INFO [send_report: send_email.py, 29] send email done
+[2019-07-28 23:32:15] INFO [send_report: send_email.py, 29] 邮件发送完毕
+[2019-07-28 23:34:03] INFO [send_report: send_email.py, 29] 邮件发送完毕
+[2019-07-28 23:44:10] DEBUG [_new_conn: connectionpool.py, 206] Starting new HTTP connection (1): 192.168.0.149:8079
+[2019-07-28 23:44:13] DEBUG [_make_request: connectionpool.py, 396] http://192.168.0.149:8079 "POST /plat/login HTTP/1.1" 200 None
+[2019-07-28 23:46:59] DEBUG [_new_conn: connectionpool.py, 206] Starting new HTTP connection (1): 192.168.0.149:8079
+[2019-07-28 23:46:59] DEBUG [_make_request: connectionpool.py, 396] http://192.168.0.149:8079 "POST /plat/login HTTP/1.1" 200 None
+[2019-07-28 23:57:24] DEBUG [_new_conn: connectionpool.py, 206] Starting new HTTP connection (1): 192.168.0.149:8079
+[2019-07-28 23:57:24] DEBUG [_make_request: connectionpool.py, 396] http://192.168.0.149:8079 "POST /plat/login HTTP/1.1" 200 None
+[2019-07-28 23:57:46] DEBUG [_new_conn: connectionpool.py, 206] Starting new HTTP connection (1): 192.168.0.149:8079
+[2019-07-28 23:57:46] DEBUG [_make_request: connectionpool.py, 396] http://192.168.0.149:8079 "POST /plat/login HTTP/1.1" 200 None
+[2019-07-28 23:58:43] DEBUG [_new_conn: connectionpool.py, 206] Starting new HTTP connection (1): 192.168.0.149:8079
+[2019-07-28 23:58:43] DEBUG [_make_request: connectionpool.py, 396] http://192.168.0.149:8079 "POST /plat/login HTTP/1.1" 200 None
+[2019-07-29 00:00:06] DEBUG [_new_conn: connectionpool.py, 206] Starting new HTTP connection (1): 192.168.0.149:8079
+[2019-07-29 00:00:06] DEBUG [_make_request: connectionpool.py, 396] http://192.168.0.149:8079 "POST /plat/login HTTP/1.1" 200 None
+[2019-07-29 00:01:37] DEBUG [_new_conn: connectionpool.py, 206] Starting new HTTP connection (1): 192.168.0.149:8079
+[2019-07-29 00:01:37] DEBUG [_make_request: connectionpool.py, 396] http://192.168.0.149:8079 "POST /plat/login HTTP/1.1" 200 None
+[2019-07-29 00:02:16] DEBUG [_new_conn: connectionpool.py, 206] Starting new HTTP connection (1): 192.168.0.149:8079
+[2019-07-29 00:02:16] DEBUG [_make_request: connectionpool.py, 396] http://192.168.0.149:8079 "POST /plat/login HTTP/1.1" 200 None
+[2019-07-29 00:03:21] DEBUG [_new_conn: connectionpool.py, 206] Starting new HTTP connection (1): 192.168.0.149:8079
+[2019-07-29 00:03:21] DEBUG [_make_request: connectionpool.py, 396] http://192.168.0.149:8079 "POST /plat/login HTTP/1.1" 200 None
+[2019-07-29 00:04:00] DEBUG [_new_conn: connectionpool.py, 206] Starting new HTTP connection (1): 192.168.0.149:8079
+[2019-07-29 00:04:00] DEBUG [_make_request: connectionpool.py, 396] http://192.168.0.149:8079 "POST /plat/login HTTP/1.1" 200 None
+[2019-07-29 00:05:26] DEBUG [_new_conn: connectionpool.py, 206] Starting new HTTP connection (1): 192.168.0.149:8079
+[2019-07-29 00:05:26] DEBUG [_make_request: connectionpool.py, 396] http://192.168.0.149:8079 "POST /plat/login HTTP/1.1" 200 None
+[2019-07-29 00:06:10] DEBUG [_new_conn: connectionpool.py, 206] Starting new HTTP connection (1): 192.168.0.149:8079
+[2019-07-29 00:06:10] DEBUG [_make_request: connectionpool.py, 396] http://192.168.0.149:8079 "POST /plat/login HTTP/1.1" 200 None
+[2019-07-29 00:06:39] DEBUG [_new_conn: connectionpool.py, 206] Starting new HTTP connection (1): 192.168.0.149:8079
+[2019-07-29 00:06:39] DEBUG [_make_request: connectionpool.py, 396] http://192.168.0.149:8079 "POST /plat/login HTTP/1.1" 200 None
+[2019-07-29 09:40:15] DEBUG [_new_conn: connectionpool.py, 206] Starting new HTTP connection (1): 192.168.0.149:8079
+[2019-07-29 09:40:16] DEBUG [_make_request: connectionpool.py, 396] http://192.168.0.149:8079 "POST /plat/login HTTP/1.1" 200 None
+[2019-07-29 09:41:25] DEBUG [_new_conn: connectionpool.py, 206] Starting new HTTP connection (1): 192.168.0.149:8079
+[2019-07-29 09:41:26] DEBUG [_make_request: connectionpool.py, 396] http://192.168.0.149:8079 "POST /plat/login HTTP/1.1" 200 None
+[2019-07-29 09:43:24] DEBUG [_new_conn: connectionpool.py, 206] Starting new HTTP connection (1): 192.168.0.149:8079
+[2019-07-29 09:43:24] DEBUG [_make_request: connectionpool.py, 396] http://192.168.0.149:8079 "POST /plat/login HTTP/1.1" 200 None
+[2019-07-29 09:44:09] DEBUG [_new_conn: connectionpool.py, 206] Starting new HTTP connection (1): 192.168.0.149:8079
+[2019-07-29 09:44:10] DEBUG [_make_request: connectionpool.py, 396] http://192.168.0.149:8079 "POST /plat/login HTTP/1.1" 200 None
+[2019-07-29 09:44:44] DEBUG [_new_conn: connectionpool.py, 206] Starting new HTTP connection (1): 192.168.0.149:8079
+[2019-07-29 09:44:44] DEBUG [_make_request: connectionpool.py, 396] http://192.168.0.149:8079 "POST /plat/login HTTP/1.1" 200 None
+[2019-07-29 09:45:17] DEBUG [_new_conn: connectionpool.py, 206] Starting new HTTP connection (1): 192.168.0.149:8079
+[2019-07-29 09:45:17] DEBUG [_make_request: connectionpool.py, 396] http://192.168.0.149:8079 "POST /plat/login HTTP/1.1" 200 None
+[2019-07-29 09:46:01] DEBUG [_new_conn: connectionpool.py, 206] Starting new HTTP connection (1): 192.168.0.149:8079
+[2019-07-29 09:46:01] DEBUG [_make_request: connectionpool.py, 396] http://192.168.0.149:8079 "POST /plat/login HTTP/1.1" 200 None
+[2019-07-29 09:46:33] DEBUG [_new_conn: connectionpool.py, 206] Starting new HTTP connection (1): 192.168.0.149:8079
+[2019-07-29 09:46:33] DEBUG [_make_request: connectionpool.py, 396] http://192.168.0.149:8079 "POST /plat/login HTTP/1.1" 200 None
+[2019-07-29 09:47:35] DEBUG [_new_conn: connectionpool.py, 206] Starting new HTTP connection (1): 192.168.0.149:8079
+[2019-07-29 09:47:35] DEBUG [_make_request: connectionpool.py, 396] http://192.168.0.149:8079 "POST /plat/login HTTP/1.1" 200 None
+[2019-07-29 09:52:32] DEBUG [_new_conn: connectionpool.py, 206] Starting new HTTP connection (1): 192.168.0.149:8079
+[2019-07-29 09:52:32] DEBUG [_make_request: connectionpool.py, 396] http://192.168.0.149:8079 "POST /plat/login HTTP/1.1" 200 None
+[2019-07-29 09:52:49] DEBUG [_new_conn: connectionpool.py, 206] Starting new HTTP connection (1): 192.168.0.149:8079
+[2019-07-29 09:52:49] DEBUG [_make_request: connectionpool.py, 396] http://192.168.0.149:8079 "POST /plat/login HTTP/1.1" 200 None
+[2019-07-29 10:00:46] DEBUG [_new_conn: connectionpool.py, 206] Starting new HTTP connection (1): 192.168.0.149:8079
+[2019-07-29 10:00:46] DEBUG [_make_request: connectionpool.py, 396] http://192.168.0.149:8079 "POST /plat/login HTTP/1.1" 200 None
